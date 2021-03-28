@@ -2,13 +2,15 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-aboutMe: /about-me
+layout: default
 ---
 
 Jared B. Tokuz
+
 US Central
+
 Phone: 214-395-4026
+
 Email: Jtokuz@gmail.com
 
 
