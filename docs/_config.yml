@@ -34,6 +34,25 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
+collections:
+  topics:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "topics"
+    values:
+      layouts: "topic"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layouts: "post"
+  - scope:
+      path: ""
+    values:
+      layouts: "default"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
