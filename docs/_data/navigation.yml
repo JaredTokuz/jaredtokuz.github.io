@@ -1,5 +1,7 @@
 - name: Home
   link: /
+- name: Resume
+  link: /resume
 - name: About Me
   link: /about-me
 - name: Projects
