@@ -4,6 +4,7 @@
 
 layout: default
 ---
+> jtokuz@gmail.com
 
 ### PROJECTS
 
